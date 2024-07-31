@@ -10,9 +10,24 @@ Run2.Xlsx includes the data of the second experiment
 Run3.Xlsx includes the data of the third experiment
 
 2- **Python Scripts**
-PBR.ipynb includes all codes for predecting dissolved oxygen as quality indicator variable
-PBROD.ipynb includes all codes for predicting optical density as quality indicator variables
+ - PBR.ipynb: all codes for predecting dissolved oxygen as quality indicator variable including:
+    - Dataset Overview
+    - Pair Plot
+    - correlation Matrix
+    - Autocorrelation
+    - LSTM
+    - MLR
+    - DTR
+    - SVR
 
+ - PBROD.ipynb: all codes for predicting optical density as quality indicator variables
+    - Dataset Overview
+    - Pair Plot
+    - correlation Matrix
+    - Autocorrelation
+    - LSTM
+    - Adding noise to the dataset
+    - Evaluate model on new dataset
 
 # Additional Information
 - For more details on the simulation setup and parameters, refer to the article.
