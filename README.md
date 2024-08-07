@@ -16,9 +16,6 @@ Run3.Xlsx includes the data of the third experiment
     - correlation Matrix
     - Autocorrelation
     - LSTM
-    - MLR
-    - DTR
-    - SVR
 
  - PBROD.ipynb: all codes for predicting optical density as quality indicator variables
     - Dataset Overview
