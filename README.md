@@ -1,4 +1,4 @@
-Toward Sustainable Development of Biomanufacturing: A Soft Sensor for Real-Time Monitoring of Sequencing Photobioreactors
+Ensemble and Sequence Modeling for Monitoring Autotrophic Single-Cell Cultivation
 
 # Overview
 Welcome to the PBR repisority. The goal of this work is to explore methods for predicting key quality indicator variables such as dissolved oxygen and optical density cosidering algorithmic invistigation for the sake of accuracy and computatial time. In-house experimental data  and codes for different machin learning algorithms are available in this reposority.
