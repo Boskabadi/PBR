@@ -17,7 +17,7 @@ This Jupyter Notebook contains all codes for predicting dissolved oxygen as a qu
 - Pair Plot: Displays relationships between variables in the dataset.
 - Correlation Matrix: Analyzes the relationships between all features.
 - Autocorrelation: Examines temporal dependencies in the data.
-- LSTM: Implements a Long Short-Term Memory network for sequence modeling.
+- Deep Learning: Implements a Long Short-Term Memory network for sequence modeling.
 - Ensemble Learning:
 - Base Models: Includes Multiple Linear Regression (MLR), Decision Tree Regression (DTR), Support Vector Regression (SVR), and General Regression Neural Network (GRNN).
 - Meta Models:
@@ -31,7 +31,7 @@ Dataset Overview: Provides a summary and visualization of the dataset.
 - Pair Plot: Displays relationships between variables in the dataset.
 - Correlation Matrix: Analyzes the relationships between all features.
 - Autocorrelation: Examines temporal dependencies in the data.
-- LSTM: Implements a Long Short-Term Memory network for sequence modeling.
+- Deep Learning: Implements a Long Short-Term Memory network for sequence modeling.
 - Noise Addition: Adds noise to the dataset for robustness evaluation.
 - Model Evaluation: Evaluates the model on the modified dataset.
 - Running Time Analysis
