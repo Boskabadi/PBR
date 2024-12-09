@@ -28,13 +28,13 @@ PBROD.ipynb
 This Jupyter Notebook contains all codes for predicting optical density as a quality indicator variable. The notebook includes the following sections:
 
 Dataset Overview: Provides a summary and visualization of the dataset.
-Pair Plot: Displays relationships between variables in the dataset.
-Correlation Matrix: Analyzes the relationships between all features.
-Autocorrelation: Examines temporal dependencies in the data.
-LSTM: Implements a Long Short-Term Memory network for sequence modeling.
-Noise Addition: Adds noise to the dataset for robustness evaluation.
-Model Evaluation: Evaluates the model on the modified dataset.
-Running Time Analysis
+- Pair Plot: Displays relationships between variables in the dataset.
+- Correlation Matrix: Analyzes the relationships between all features.
+- Autocorrelation: Examines temporal dependencies in the data.
+- LSTM: Implements a Long Short-Term Memory network for sequence modeling.
+- Noise Addition: Adds noise to the dataset for robustness evaluation.
+- Model Evaluation: Evaluates the model on the modified dataset.
+- Running Time Analysis
 The running times for both Ensemble Learning and Deep Learning (LSTM) models have been investigated and included in the analysis to provide insights into their computational efficiency.
 
 # Additional Information
